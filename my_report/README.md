@@ -17,12 +17,23 @@
 •	Αντί για της Ruby χρησιμοποίησα έναν άλλο χαρακτήρα για πρωταγωνιστή του παιχνιδιού, τον χαρακτήρα της κότας.
 Παρακάτω αναφέρονται οι αλλαγές που έχουν γίνει ακολουθώντας τα παραπάνω δεδομένα:
 •	O χαρακτήρας της Ruby έχει αλλαχθεί με έναν νέο χαρακτήρα τον χαρακτήρα της κότας ο οποίος πάρθηκε από την σελίδα opengameart.org. Παρακάτω φαίνεται ο νέος χαρακτήρας. https://opengameart.org/content/lpc-chicken-rework ή https://opengameart.org/content/hidegvins (πιθανή αλλαγή)
+
+![image](https://user-images.githubusercontent.com/46854165/201908188-95be585e-155c-4907-aa79-692bbfb3860b.png)
+![image](https://user-images.githubusercontent.com/46854165/201908210-791d994b-0b3c-4ac4-a808-737f93cb93c0.png)
+
   
 •	Επίσης, το προχώρησα λίγο, έδωσα στον χαρακτήρα κίνηση χρησιμοποιώντας το animation (όπως είχαμε κάνει και σε ένα εργαστήριο).
 •	Τέλος, δημιουργήθηκε μια νέα πίστα με το Tilemaps, η οποία διαμορφώθηκε με διάφορα αντικείμενα και σκηνικά στον χώρο. Παρακάτω υπάρχει η νέα πίστα. https://opengameart.org/content/outdoor-tiles-again
 
+![image](https://user-images.githubusercontent.com/46854165/201908250-704b75be-b07a-48cc-b7b1-f4a0e7e1f9ba.png)
+![image](https://user-images.githubusercontent.com/46854165/201908268-168c4588-4bb1-4e56-ac7b-b5eabfa29c27.png)
+
+
 Τελικό Αποτέλεσμα:
 Τέλος δίνεται ένα τελικό screenshot του παιχνιδιού όπως είναι τώρα, με τις αλλαγές που έχουν γίνει μέχρι στιγμής, στην φάση του πρώτου παραδοτέου. 
+
+![image](https://user-images.githubusercontent.com/46854165/201908309-f48be09f-16d2-4ae1-bc85-8b6bf5eecdcb.png)
+
 
 # 2nd Deliverable
 
