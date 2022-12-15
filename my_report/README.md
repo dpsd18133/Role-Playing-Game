@@ -25,8 +25,6 @@
 •	Τέλος, δημιουργήθηκε μια νέα πίστα με το Tilemaps, η οποία διαμορφώθηκε με διάφορα αντικείμενα και σκηνικά στον χώρο. Παρακάτω υπάρχει η νέα πίστα. https://opengameart.org/content/outdoor-tiles-again
 
 ![image](https://user-images.githubusercontent.com/46854165/201908250-704b75be-b07a-48cc-b7b1-f4a0e7e1f9ba.png)
-![image](https://user-images.githubusercontent.com/46854165/201908268-168c4588-4bb1-4e56-ac7b-b5eabfa29c27.png)
-
 
 Τελικό Αποτέλεσμα:
 Τέλος δίνεται ένα τελικό screenshot του παιχνιδιού όπως είναι τώρα, με τις αλλαγές που έχουν γίνει μέχρι στιγμής, στην φάση του πρώτου παραδοτέου. 
