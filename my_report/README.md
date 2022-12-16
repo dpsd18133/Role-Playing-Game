@@ -52,10 +52,12 @@ https://opengameart.org/content/dragonmonster-eggs
 
 Στην συνέχεια πρόσθεσα πέτρες σαν ‘‘Damage Zones’’  ώστε όταν πηγαίνει ο χαρακτήρας να χάνει ζωή,
 https://opengameart.org/content/rocks-on-different-colored-layers
+
 ![image](https://user-images.githubusercontent.com/46854165/208096502-f4160282-7ca8-48f6-81f9-92559bc18d17.png)
 
 καθώς και εχθρό.
 https://opengameart.org/content/a-bald-eagle
+
 ![image](https://user-images.githubusercontent.com/46854165/208096530-c9b1588a-3a2d-401b-b0dd-95a6671b69ed.png)
 ![image](https://user-images.githubusercontent.com/46854165/208096547-600dc926-d3bf-42e4-9b1a-224b9e2dd341.png)
 ![image](https://user-images.githubusercontent.com/46854165/208096560-53d1463b-9add-4c84-862e-18b313f3d3f0.png)
