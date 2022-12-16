@@ -79,7 +79,6 @@ https://opengameart.org/content/bomb-explosion-animation
 ![image](https://user-images.githubusercontent.com/46854165/208096761-85729a99-e49a-46e3-905d-77328832575e.png)
 
 Τέλος προσάρμοσα την κάμερα (Camera - Cinemachine) να ακολουθεί τον πρωταγωνιστή, και την περιόρισα ώστε να μην φαίνεται όλη η πίστα και να την ανακαλύπτει ο παίκτης.
-
 # 3rd Deliverable 
 
 
