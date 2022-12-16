@@ -41,19 +41,19 @@
 ![image](https://user-images.githubusercontent.com/46854165/208096381-f558b965-3910-48b3-8f64-81acb70f78c6.png)
 
 Η πίστα έχει διαμορφωθεί όπως φαίνεται στην φωτογραφία παραπάνω και έχω προσθέσει αντικείμενα ώστε να περιλαμβάνει συγκρούσεις και ο πρωταγωνιστής να μην περνάει μέσα από αυτά. Όπως παγκάκια βραχάκια κουτιά κλπ. 
-
+https://opengameart.org/content/modified-32x32-treasure-chest 
 ![image](https://user-images.githubusercontent.com/46854165/208096423-1f6a9981-e478-45d9-89d8-3ba1685c508f.png)
 
 Πρόσθεσα διάφορα αντικείμενα (αυγό) που δίνουν ζωή στον πρωταγωνιστή και τον έβαλα να εχει μέγιστη ζωή στα 5/5.
-
+https://opengameart.org/content/dragonmonster-eggs
 ![image](https://user-images.githubusercontent.com/46854165/208096463-f230640a-6c17-4111-832e-00fec337b054.png)
 
 Στην συνέχεια πρόσθεσα πέτρες σαν ‘‘Damage Zones’’  ώστε όταν πηγαίνει ο χαρακτήρας να χάνει ζωή,
-
+https://opengameart.org/content/rocks-on-different-colored-layers
 ![image](https://user-images.githubusercontent.com/46854165/208096502-f4160282-7ca8-48f6-81f9-92559bc18d17.png)
 
 καθώς και εχθρό.
-
+https://opengameart.org/content/a-bald-eagle
 ![image](https://user-images.githubusercontent.com/46854165/208096530-c9b1588a-3a2d-401b-b0dd-95a6671b69ed.png)
 ![image](https://user-images.githubusercontent.com/46854165/208096547-600dc926-d3bf-42e4-9b1a-224b9e2dd341.png)
 ![image](https://user-images.githubusercontent.com/46854165/208096560-53d1463b-9add-4c84-862e-18b313f3d3f0.png)
@@ -71,7 +71,7 @@
 ![image](https://user-images.githubusercontent.com/46854165/208096726-e5922697-5fc3-45ce-9f8e-ce17a22f2ddd.png)
 
 Πιο συγκεκριμένα εχω επιλέξει μια εμβέλεια στην οποία όταν πλησιάζει ο παίκτης και μπει μέσα σε αυτήν τότε ο εχθρός τον πυροβολεί συνέχεια μέχρι ο παίκτης να απομακρυνθεί και να φύγει.
-
+https://opengameart.org/content/bomb-explosion-animation
 ![image](https://user-images.githubusercontent.com/46854165/208096761-85729a99-e49a-46e3-905d-77328832575e.png)
 
 Τέλος προσάρμοσα την κάμερα (Camera - Cinemachine) να ακολουθεί τον πρωταγωνιστή, και την περιόρισα ώστε να μην φαίνεται όλη η πίστα και να την ανακαλύπτει ο παίκτης.
