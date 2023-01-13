@@ -86,22 +86,34 @@ https://opengameart.org/content/bomb-explosion-animation
 Αρχικά έπρεπε να προσθέσουμε εφέ στο παιχνίδι (particle effects).
 Έτσι χρησιμοποίησα το παρακάτω για εφέ όταν πας να σκοτώσεις τον εχθρό και τρώει damage να φαίνεται σαν εκρήξεις. Βέβαια αυτό δεν λειτούργησε σωστα γιατί είχα θέμα κάπου στο κώδικα.
 https://opengameart.org/content/bomb-explosion-animation 
+
 ![image](https://user-images.githubusercontent.com/46854165/212314289-8df26400-8ca8-43fc-b71e-c0139950bf70.png)
+
 Οπότε φαίνεται κάπως έτσι μέχρι στιγμής:
 ![image](https://user-images.githubusercontent.com/46854165/212314334-795b69e8-a07e-44d0-b58e-c03b9408daba.png)
+
 Στην συνέχεια είχαμε να προσθέσουμε ένα Head-Up Display που θα εμφανίζεται στο πάνω αριστερά μέρος της οθόνης που θα δείχνει την ζωή του παίκτη. Η ζωή θα αυξάνεται καθώς ο πρωταγωνιστή συλλέγει συγκεκριμένα αντικείμενα που θα υπάρχουν στη πίστα και θα μειώνεται όταν τον χτυπάει κάποιος.
 ![image](https://user-images.githubusercontent.com/46854165/212314432-4d1021aa-6c83-4522-a6a7-fbaef982a4a7.png)
+
 Πάνω αριστερα βλεπουμε την μπαρα ζωης που εχω φτιαξει πως φαινεται στο παιχνιδι και παρακατω είναι τα pnj. https://opengameart.org/content/heart-health-bar 
+
 ![image](https://user-images.githubusercontent.com/46854165/212314511-9a43219f-250a-446a-9e2d-43f8e49b18d3.png)
 ![image](https://user-images.githubusercontent.com/46854165/212314530-1f870a2f-589e-4c25-83b5-265ac70a7dd3.png)
+
 Δεν λειτουργεί απόλυτα η μπάρα ζωής καθώς είχα και εδώ κάποιο πρόβλημα στο κώδικα. Όμως μπορείς να δεις ότι μειώνεται η ζωή και την λειτουργικότητα της άμα πατήσεις space.
 Μετά έπρεπε να κάνουμε τον πρωταγωνιστή να μπορεί να ανοίγει μια πόρτα και να γίνεται teleport σε κάποιο άλλο σημείο της πίστας. https://opengameart.org/content/orange-pit-trap 
+
 ![image](https://user-images.githubusercontent.com/46854165/212314627-3d6f126f-892d-463e-b765-d233fc224d5d.png)
+
 Έβαλα το παραπάνω εικονίδιο για να κάνει teleport ο παίκτης μέσα στην πίστα. Το teleport επέλεξα να γίνεται μόνο από την 1η πύλη -> 2η πύλη δεν θα μπορεί ο παίκτης να γυρίσει πίσω από την 2η ουσιαστικά δεν θα κάνει κάποιο interact σε αυτήν.
 ![image](https://user-images.githubusercontent.com/46854165/212314700-e868656d-ba15-4fb2-ad91-9e70d602bae6.png)
+
 Στην συνέχεια έβαλα να γίνεται ένα ‘Dialog’ στην αρχή του παιχνιδιού, όπου μια φιγούρα εξηγεί στο παίκτη τι πρέπει να κάνει για να κερδίσει την πίστα. https://opengameart.org/content/nutpea-pixel-sprites 
+
 ![image](https://user-images.githubusercontent.com/46854165/212314748-9e45f85b-523f-4035-8bda-1d355023d6c6.png)
+
 Η φιγούρα φαίνεται κάπως έτσι και για να του μιλήσεις πρέπει να πατήσεις «Ε» όταν φτάσεις δίπλα του.
+
 ![image](https://user-images.githubusercontent.com/46854165/212314800-c7d56214-4213-446f-b4d6-db6cc941b3f3.png)
 ![image](https://user-images.githubusercontent.com/46854165/212314818-4720587a-b74a-48c5-b48f-70aed32b4377.png)
 ![image](https://user-images.githubusercontent.com/46854165/212314835-761b4711-c210-4ac4-a104-efb8dbf32287.png)
@@ -116,10 +128,13 @@ https://opengameart.org/content/won-orchestral-winning-jingle
 
 Τέλος έπρεπε δημιουργήσουμε ένα αρχικό Menu, ώστε ο χρήστης του παιχνιδιού να μπορεί να επιλέξει ανάμεσα σε δύο διαφορετικές πίστες του παιχνιδιού. Άλλαξα font στα γράμματα πρόσθεσα εικόνα background και έβαλα τον παίκτη να φαίνεται.
 https://fonts.webtoolhub.com/?pIndex=4
+
 ![image](https://user-images.githubusercontent.com/46854165/212314972-8d831b34-8752-4af7-8a6b-d556b1ffc916.png)
 ![image](https://user-images.githubusercontent.com/46854165/212314986-66a9c816-7306-43e8-aae9-84e9d9a5d486.png)
+
 Οπότε έφτιαξα μια νέα πίστα στην οποία πρόσθεσα ότι έχουμε ζητηθεί να κάνουμε μέχρι τώρα:
 ![image](https://user-images.githubusercontent.com/46854165/212315017-3e4ee446-291c-486e-bb54-f59121c74b0e.png)
+
 Έκανα τις πίστες-scenes να επικοινωνούν μεταξύ τους, ο παίκτης όταν πάει στο θησαυρό βγαίνει σε νέα πίστα και όταν τερματίσει πάει στο μενού.
 
 # Conclusions
