@@ -137,6 +137,53 @@ https://fonts.webtoolhub.com/?pIndex=4
 
 Έκανα τις πίστες-scenes να επικοινωνούν μεταξύ τους, ο παίκτης όταν πάει στο θησαυρό βγαίνει σε νέα πίστα και όταν τερματίσει πάει στο μενού.
 
+Αλλαγές και βελτιώσεις που έγιναν μετά την παρουσίαση στις 2 μέρες που μας δόθηκαν: 
+Αρχικά άλλαξα την σφαίρα που πυροβολεί ο εχθρός όταν τον πλησιάζει ο παίκτης, τον άλλαξα να μην περιστρέφεται στο άξονα z και μείωσα την ακτίνα της ζώνης που πυροβολεί τον παίκτη όταν μπαίνει μέσα.
+![image](https://user-images.githubusercontent.com/46854165/212560684-d1b2df57-507b-418f-890a-7732168b13e9.png)
+
+Στην συνεχεια αλλαξα το icon που ειχα για το teleport και εβαλα το παρακατω “black hole”.
+![image](https://user-images.githubusercontent.com/46854165/212560699-afeda893-e5fc-45e7-94fa-4407412ae6a8.png)
+
+Μετα εβαλα score στο παιχνιδι μου το οποιο αυξανεται όταν ο παικτης μαζευει coins. 
+https://opengameart.org/content/gold-treasure-icons 
+
+![image](https://user-images.githubusercontent.com/46854165/212560716-fbdfac12-3dd7-4c16-a470-5377abcd5479.png)
+
+![image](https://user-images.githubusercontent.com/46854165/212560720-ef4141ff-5461-40fc-9357-f997749fa562.png)
+
+Κατάφερα να κάνω τον παίκτη να πυροβολεί πατώντας SPACE με την παρακάτω σφαίρα. 
+
+![image](https://user-images.githubusercontent.com/46854165/212560743-fe712e50-7dc5-47de-819d-808c1a14238e.png)
+
+Έτσι άλλαξα κείμενο στον JOJO γράφοντας τι πρέπει να κάνει ο παίκτης στο παιχνίδι και τις ικανότητες που εχει.
+
+![image](https://user-images.githubusercontent.com/46854165/212560752-5b20fb67-8d37-41a3-b04f-de0eb6da714a.png)
+![image](https://user-images.githubusercontent.com/46854165/212560755-1012f59c-d4c1-425d-b4e1-d7a28189cc53.png)
+![image](https://user-images.githubusercontent.com/46854165/212560761-59d98a2b-43e2-4113-b27e-c3536b334b82.png)
+![image](https://user-images.githubusercontent.com/46854165/212560765-28ff1529-2da7-4f7d-95f3-ebc7ecb8fcb7.png)
+![image](https://user-images.githubusercontent.com/46854165/212560772-a55fb28f-1444-46c3-af31-67275a76979f.png)
+![image](https://user-images.githubusercontent.com/46854165/212560777-62b5158b-7710-4bc2-a8db-db9472e962b8.png)
+
+Επιπλέον πρόσθεσα άλλα 2 level + ένα scene για όταν τερματίζεται το παιχνίδι και έκανα κάποιες διαφοροποιήσεις στα maps οπότε παρακάτω φαίνονται με την σειρά όλα τα τελικά scenes.
+
+ΑΡΧΙΚΟ ΜΕΝΟΥ:
+![image](https://user-images.githubusercontent.com/46854165/212560796-0579c02e-bab6-4858-8cee-c29d67907274.png)
+
+1ο LEVEL:
+![image](https://user-images.githubusercontent.com/46854165/212560804-c32dc547-383f-4e4e-9949-03da254898d3.png)
+
+2ο LEVEL:
+![image](https://user-images.githubusercontent.com/46854165/212560833-8103a959-b30c-4c59-8bda-4c35d96e840c.png)
+
+3ο LEVEL:
+![image](https://user-images.githubusercontent.com/46854165/212560843-436c8b82-68ed-4abf-8c8d-01fe66fdbf75.png)
+
+4ο LEVEL:
+![image](https://user-images.githubusercontent.com/46854165/212560876-b56bf4e3-e02e-4131-83b7-bab83e26a3e7.png)
+
+CLOSING SCENE:
+![image](https://user-images.githubusercontent.com/46854165/212560890-25436d9f-a5bb-425c-9afb-ddb9e311dc1e.png)
+
 # Conclusions
 Συμπερασματικά έχει δημιουργηθεί ένα αρκετά λειτουργικό παιχνίδι με βάσει τα ζητούμενα που είχαμε απ’ τα παραδοτέα, έχουν γίνει αρκετές αλλαγές ώστε να διαφοροποιηθεί απ’ τα υπόλοιπα παιχνίδια. Οπότε έχουμε ένα παιχνίδι στο οποίο ο παίκτης καλείται να βρει τον θησαυρό μέσα στο map και να προχωρήσει σε νέα πίστα πιο δύσκολη (κλιμακωτά). Μέσα στο παιχνίδι μπορεί να κάνει teleport σε διαφορετικά σημεία και να κάνει interact με διάφορα αντικείμενα και να μαζέψει ζωή.
 
