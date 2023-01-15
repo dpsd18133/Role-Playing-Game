@@ -15,6 +15,7 @@
 Το πρώτο παραδοτέο, αφορά τον αρχικό σχεδιασμό της εφαρμογής. Ο σχεδιασμός ακολουθεί τις οδηγίες που έχουν δοθεί γραπτώς στο GitHub. Πιο συγκεκριμένα, στο πρώτο παραδοτέο γίνονται τα εξής:
 
 •	Αντί για της Ruby χρησιμοποίησα έναν άλλο χαρακτήρα για πρωταγωνιστή του παιχνιδιού, τον χαρακτήρα της κότας.
+
 Παρακάτω αναφέρονται οι αλλαγές που έχουν γίνει ακολουθώντας τα παραπάνω δεδομένα:
 
 •	O χαρακτήρας της Ruby έχει αλλαχθεί με έναν νέο χαρακτήρα τον χαρακτήρα της κότας ο οποίος πάρθηκε από την σελίδα opengameart.org. 
@@ -105,6 +106,7 @@ https://opengameart.org/content/bomb-explosion-animation
 ![image](https://user-images.githubusercontent.com/46854165/212314530-1f870a2f-589e-4c25-83b5-265ac70a7dd3.png)
 
 Δεν λειτουργεί απόλυτα η μπάρα ζωής καθώς είχα και εδώ κάποιο πρόβλημα στο κώδικα. Όμως μπορείς να δεις ότι μειώνεται η ζωή και την λειτουργικότητα της άμα πατήσεις space.
+
 Μετά έπρεπε να κάνουμε τον πρωταγωνιστή να μπορεί να ανοίγει μια πόρτα και να γίνεται teleport σε κάποιο άλλο σημείο της πίστας. https://opengameart.org/content/orange-pit-trap 
 
 ![image](https://user-images.githubusercontent.com/46854165/212314627-3d6f126f-892d-463e-b765-d233fc224d5d.png)
@@ -123,8 +125,11 @@ https://opengameart.org/content/bomb-explosion-animation
 ![image](https://user-images.githubusercontent.com/46854165/212314835-761b4711-c210-4ac4-a104-efb8dbf32287.png)
 
 Μετά έπρεπε να προσθέσουμε τους δικούς μας ήχους και μουσική. Σε κάθε πίστα/scene που έκανα έβαλα να παίζει μια μουσική από πίσω και διάφορα ηχητικά εφέ με nature ήχους και όταν κερδίζεις την πίστα να υπάρχει ήχος νίκης. Βάζω Links τις πήγες που πήρα ήχους.
+
 https://pixabay.com/sound-effects/search/animal/?manual_search=1&order=None  
+
 https://mixkit.co/free-sound-effects/bird/ 
+
 https://opengameart.org/content/won-orchestral-winning-jingle
 
 Η πίστα φαίνεται πλέον ως εξής:
@@ -142,7 +147,9 @@ https://fonts.webtoolhub.com/?pIndex=4
 Έκανα τις πίστες-scenes να επικοινωνούν μεταξύ τους, ο παίκτης όταν πάει στο θησαυρό βγαίνει σε νέα πίστα και όταν τερματίσει πάει στο μενού.
 
 Αλλαγές και βελτιώσεις που έγιναν μετά την παρουσίαση στις 2 μέρες που μας δόθηκαν: 
+
 Αρχικά άλλαξα την σφαίρα που πυροβολεί ο εχθρός όταν τον πλησιάζει ο παίκτης, τον άλλαξα να μην περιστρέφεται στο άξονα z και μείωσα την ακτίνα της ζώνης που πυροβολεί τον παίκτη όταν μπαίνει μέσα.
+
 ![image](https://user-images.githubusercontent.com/46854165/212560684-d1b2df57-507b-418f-890a-7732168b13e9.png)
 
 Στην συνεχεια αλλαξα το icon που ειχα για το teleport και εβαλα το παρακατω “black hole”.
@@ -177,9 +184,11 @@ https://opengameart.org/content/gold-treasure-icons
 ![image](https://user-images.githubusercontent.com/46854165/212560804-c32dc547-383f-4e4e-9949-03da254898d3.png)
 
 2ο LEVEL:
+
 ![image](https://user-images.githubusercontent.com/46854165/212560833-8103a959-b30c-4c59-8bda-4c35d96e840c.png)
 
 3ο LEVEL:
+
 ![image](https://user-images.githubusercontent.com/46854165/212560843-436c8b82-68ed-4abf-8c8d-01fe66fdbf75.png)
 
 4ο LEVEL:
