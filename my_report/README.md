@@ -181,6 +181,7 @@ https://opengameart.org/content/gold-treasure-icons
 ![image](https://user-images.githubusercontent.com/46854165/212560796-0579c02e-bab6-4858-8cee-c29d67907274.png)
 
 1ο LEVEL:
+
 ![image](https://user-images.githubusercontent.com/46854165/212560804-c32dc547-383f-4e4e-9949-03da254898d3.png)
 
 2ο LEVEL:
@@ -192,9 +193,11 @@ https://opengameart.org/content/gold-treasure-icons
 ![image](https://user-images.githubusercontent.com/46854165/212560843-436c8b82-68ed-4abf-8c8d-01fe66fdbf75.png)
 
 4ο LEVEL:
+
 ![image](https://user-images.githubusercontent.com/46854165/212560876-b56bf4e3-e02e-4131-83b7-bab83e26a3e7.png)
 
 CLOSING SCENE:
+
 ![image](https://user-images.githubusercontent.com/46854165/212560890-25436d9f-a5bb-425c-9afb-ddb9e311dc1e.png)
 
 # Conclusions
