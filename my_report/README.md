@@ -153,6 +153,7 @@ https://fonts.webtoolhub.com/?pIndex=4
 ![image](https://user-images.githubusercontent.com/46854165/212560684-d1b2df57-507b-418f-890a-7732168b13e9.png)
 
 Στην συνεχεια αλλαξα το icon που ειχα για το teleport και εβαλα το παρακατω “black hole”.
+
 ![image](https://user-images.githubusercontent.com/46854165/212560699-afeda893-e5fc-45e7-94fa-4407412ae6a8.png)
 
 Μετα εβαλα score στο παιχνιδι μου το οποιο αυξανεται όταν ο παικτης μαζευει coins. 
@@ -178,6 +179,7 @@ https://opengameart.org/content/gold-treasure-icons
 Επιπλέον πρόσθεσα άλλα 2 level + ένα scene για όταν τερματίζεται το παιχνίδι και έκανα κάποιες διαφοροποιήσεις στα maps οπότε παρακάτω φαίνονται με την σειρά όλα τα τελικά scenes.
 
 ΑΡΧΙΚΟ ΜΕΝΟΥ:
+
 ![image](https://user-images.githubusercontent.com/46854165/212560796-0579c02e-bab6-4858-8cee-c29d67907274.png)
 
 1ο LEVEL:
